@@ -24,7 +24,7 @@ namespace WeeklyChallenges.Tests
                 Assert.True(uppercaseActual);
             }
         }
-
+        
         [Fact]
         public void CharacterIsNotALetter()
         {
